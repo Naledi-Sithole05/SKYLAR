@@ -1,0 +1,263 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hiits\\jumping game(personal)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE95A5E3-A425-5A99-23F4-7B44A402D2DD}|Assembly-CSharp.csproj|c:\\users\\hiits\\jumping game(personal)\\assets\\playercombat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE95A5E3-A425-5A99-23F4-7B44A402D2DD}|Assembly-CSharp.csproj|solutionrelative:assets\\playercombat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE95A5E3-A425-5A99-23F4-7B44A402D2DD}|Assembly-CSharp.csproj|c:\\users\\hiits\\jumping game(personal)\\assets\\scenereset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE95A5E3-A425-5A99-23F4-7B44A402D2DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scenereset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE95A5E3-A425-5A99-23F4-7B44A402D2DD}|Assembly-CSharp.csproj|C:\\Users\\hiits\\jumping game(personal)\\assets\\level2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE95A5E3-A425-5A99-23F4-7B44A402D2DD}|Assembly-CSharp.csproj|solutionrelative:assets\\level2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE95A5E3-A425-5A99-23F4-7B44A402D2DD}|Assembly-CSharp.csproj|C:\\Users\\hiits\\jumping game(personal)\\assets\\respawnifstuck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE95A5E3-A425-5A99-23F4-7B44A402D2DD}|Assembly-CSharp.csproj|solutionrelative:assets\\respawnifstuck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE95A5E3-A425-5A99-23F4-7B44A402D2DD}|Assembly-CSharp.csproj|C:\\Users\\hiits\\jumping game(personal)\\assets\\playershooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE95A5E3-A425-5A99-23F4-7B44A402D2DD}|Assembly-CSharp.csproj|solutionrelative:assets\\playershooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE95A5E3-A425-5A99-23F4-7B44A402D2DD}|Assembly-CSharp.csproj|C:\\Users\\hiits\\jumping game(personal)\\assets\\playermovment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE95A5E3-A425-5A99-23F4-7B44A402D2DD}|Assembly-CSharp.csproj|solutionrelative:assets\\playermovment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE95A5E3-A425-5A99-23F4-7B44A402D2DD}|Assembly-CSharp.csproj|C:\\Users\\hiits\\jumping game(personal)\\assets\\restart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE95A5E3-A425-5A99-23F4-7B44A402D2DD}|Assembly-CSharp.csproj|solutionrelative:assets\\restart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE95A5E3-A425-5A99-23F4-7B44A402D2DD}|Assembly-CSharp.csproj|C:\\Users\\hiits\\jumping game(personal)\\assets\\musicstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE95A5E3-A425-5A99-23F4-7B44A402D2DD}|Assembly-CSharp.csproj|solutionrelative:assets\\musicstart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE95A5E3-A425-5A99-23F4-7B44A402D2DD}|Assembly-CSharp.csproj|C:\\Users\\hiits\\jumping game(personal)\\assets\\musicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE95A5E3-A425-5A99-23F4-7B44A402D2DD}|Assembly-CSharp.csproj|solutionrelative:assets\\musicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE95A5E3-A425-5A99-23F4-7B44A402D2DD}|Assembly-CSharp.csproj|C:\\Users\\hiits\\jumping game(personal)\\assets\\buttel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE95A5E3-A425-5A99-23F4-7B44A402D2DD}|Assembly-CSharp.csproj|solutionrelative:assets\\buttel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE95A5E3-A425-5A99-23F4-7B44A402D2DD}|Assembly-CSharp.csproj|C:\\Users\\hiits\\jumping game(personal)\\assets\\rock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE95A5E3-A425-5A99-23F4-7B44A402D2DD}|Assembly-CSharp.csproj|solutionrelative:assets\\rock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE95A5E3-A425-5A99-23F4-7B44A402D2DD}|Assembly-CSharp.csproj|C:\\Users\\hiits\\jumping game(personal)\\assets\\playerrespawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE95A5E3-A425-5A99-23F4-7B44A402D2DD}|Assembly-CSharp.csproj|solutionrelative:assets\\playerrespawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE95A5E3-A425-5A99-23F4-7B44A402D2DD}|Assembly-CSharp.csproj|C:\\Users\\hiits\\jumping game(personal)\\assets\\gunandbullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE95A5E3-A425-5A99-23F4-7B44A402D2DD}|Assembly-CSharp.csproj|solutionrelative:assets\\gunandbullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE95A5E3-A425-5A99-23F4-7B44A402D2DD}|Assembly-CSharp.csproj|C:\\Users\\hiits\\jumping game(personal)\\assets\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE95A5E3-A425-5A99-23F4-7B44A402D2DD}|Assembly-CSharp.csproj|solutionrelative:assets\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE95A5E3-A425-5A99-23F4-7B44A402D2DD}|Assembly-CSharp.csproj|C:\\Users\\hiits\\jumping game(personal)\\assets\\openlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE95A5E3-A425-5A99-23F4-7B44A402D2DD}|Assembly-CSharp.csproj|solutionrelative:assets\\openlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "openlevel.cs",
+              "DocumentMoniker": "C:\\Users\\hiits\\jumping game(personal)\\Assets\\openlevel.cs",
+              "RelativeDocumentMoniker": "Assets\\openlevel.cs",
+              "ToolTip": "C:\\Users\\hiits\\jumping game(personal)\\Assets\\openlevel.cs",
+              "RelativeToolTip": "Assets\\openlevel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T10:52:12.696Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerCombat.cs",
+              "DocumentMoniker": "C:\\Users\\hiits\\jumping game(personal)\\Assets\\PlayerCombat.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerCombat.cs",
+              "ToolTip": "C:\\Users\\hiits\\jumping game(personal)\\Assets\\PlayerCombat.cs",
+              "RelativeToolTip": "Assets\\PlayerCombat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T18:11:36.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RESPAWNIFSTUCK.cs",
+              "DocumentMoniker": "C:\\Users\\hiits\\jumping game(personal)\\Assets\\RESPAWNIFSTUCK.cs",
+              "RelativeDocumentMoniker": "Assets\\RESPAWNIFSTUCK.cs",
+              "ToolTip": "C:\\Users\\hiits\\jumping game(personal)\\Assets\\RESPAWNIFSTUCK.cs",
+              "RelativeToolTip": "Assets\\RESPAWNIFSTUCK.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T13:53:05.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Restart.cs",
+              "DocumentMoniker": "C:\\Users\\hiits\\jumping game(personal)\\Assets\\Restart.cs",
+              "RelativeDocumentMoniker": "Assets\\Restart.cs",
+              "ToolTip": "C:\\Users\\hiits\\jumping game(personal)\\Assets\\Restart.cs",
+              "RelativeToolTip": "Assets\\Restart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T11:16:12.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LEVEL2.cs",
+              "DocumentMoniker": "C:\\Users\\hiits\\jumping game(personal)\\Assets\\LEVEL2.cs",
+              "RelativeDocumentMoniker": "Assets\\LEVEL2.cs",
+              "ToolTip": "C:\\Users\\hiits\\jumping game(personal)\\Assets\\LEVEL2.cs",
+              "RelativeToolTip": "Assets\\LEVEL2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T18:13:56.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MusicStart.cs",
+              "DocumentMoniker": "C:\\Users\\hiits\\jumping game(personal)\\Assets\\MusicStart.cs",
+              "RelativeDocumentMoniker": "Assets\\MusicStart.cs",
+              "ToolTip": "C:\\Users\\hiits\\jumping game(personal)\\Assets\\MusicStart.cs",
+              "RelativeToolTip": "Assets\\MusicStart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T19:08:16.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "musicmanager.cs",
+              "DocumentMoniker": "C:\\Users\\hiits\\jumping game(personal)\\Assets\\musicmanager.cs",
+              "RelativeDocumentMoniker": "Assets\\musicmanager.cs",
+              "ToolTip": "C:\\Users\\hiits\\jumping game(personal)\\Assets\\musicmanager.cs",
+              "RelativeToolTip": "Assets\\musicmanager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T19:07:44.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerShooting.cs",
+              "DocumentMoniker": "C:\\Users\\hiits\\jumping game(personal)\\Assets\\PlayerShooting.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerShooting.cs",
+              "ToolTip": "C:\\Users\\hiits\\jumping game(personal)\\Assets\\PlayerShooting.cs",
+              "RelativeToolTip": "Assets\\PlayerShooting.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T15:09:45.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Gunandbullet.cs",
+              "DocumentMoniker": "C:\\Users\\hiits\\jumping game(personal)\\Assets\\Gunandbullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Gunandbullet.cs",
+              "ToolTip": "C:\\Users\\hiits\\jumping game(personal)\\Assets\\Gunandbullet.cs",
+              "RelativeToolTip": "Assets\\Gunandbullet.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-21T13:25:42.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SceneReset.cs",
+              "DocumentMoniker": "C:\\Users\\hiits\\jumping game(personal)\\Assets\\SceneReset.cs",
+              "RelativeDocumentMoniker": "Assets\\SceneReset.cs",
+              "ToolTip": "C:\\Users\\hiits\\jumping game(personal)\\Assets\\SceneReset.cs",
+              "RelativeToolTip": "Assets\\SceneReset.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T17:56:44.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PlayerRespawn.cs",
+              "DocumentMoniker": "C:\\Users\\hiits\\jumping game(personal)\\Assets\\PlayerRespawn.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerRespawn.cs",
+              "ToolTip": "C:\\Users\\hiits\\jumping game(personal)\\Assets\\PlayerRespawn.cs",
+              "RelativeToolTip": "Assets\\PlayerRespawn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T17:42:02.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "rock.cs",
+              "DocumentMoniker": "C:\\Users\\hiits\\jumping game(personal)\\Assets\\rock.cs",
+              "RelativeDocumentMoniker": "Assets\\rock.cs",
+              "ToolTip": "C:\\Users\\hiits\\jumping game(personal)\\Assets\\rock.cs",
+              "RelativeToolTip": "Assets\\rock.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAASwDcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T20:21:04.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "buttel.cs",
+              "DocumentMoniker": "C:\\Users\\hiits\\jumping game(personal)\\Assets\\buttel.cs",
+              "RelativeDocumentMoniker": "Assets\\buttel.cs",
+              "ToolTip": "C:\\Users\\hiits\\jumping game(personal)\\Assets\\buttel.cs",
+              "RelativeToolTip": "Assets\\buttel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T20:20:12.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "playermovment.cs",
+              "DocumentMoniker": "C:\\Users\\hiits\\jumping game(personal)\\Assets\\playermovment.cs",
+              "RelativeDocumentMoniker": "Assets\\playermovment.cs",
+              "ToolTip": "C:\\Users\\hiits\\jumping game(personal)\\Assets\\playermovment.cs",
+              "RelativeToolTip": "Assets\\playermovment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T18:41:21.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MAINMENU.cs",
+              "DocumentMoniker": "C:\\Users\\hiits\\jumping game(personal)\\Assets\\MAINMENU.cs",
+              "RelativeDocumentMoniker": "Assets\\MAINMENU.cs",
+              "ToolTip": "C:\\Users\\hiits\\jumping game(personal)\\Assets\\MAINMENU.cs",
+              "RelativeToolTip": "Assets\\MAINMENU.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T16:53:33.013Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
